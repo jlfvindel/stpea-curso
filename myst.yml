@@ -1,0 +1,33 @@
+# -------------------------------------------------------------
+#  myst.yml · Sitio de la asignatura STPEA
+#  Ver en local:   myst start
+#  Publicar:       BASE_URL=/ruta/del/sitio myst build --html
+#                  y copiar el contenido de _build/html al servidor.
+#
+#  Los ejemplos se publican aparte, en la subcarpeta ejemplos-myst/
+#  de este mismo sitio; las páginas los enlazan como /ejemplos-myst/…
+# -------------------------------------------------------------
+version: 1
+
+project:
+  title: Soporte Tecnológico a Procesos de Enseñanza y Aprendizaje
+  short_title: STPEA
+  authors:
+    - name: José Luis Fernández Vindel
+  license: CC-BY-4.0
+
+  toc:
+    - file: index.md
+    - file: bloques/espacio-propio.md
+    - file: bloques/contenidos-y-actividades.md
+    - file: bloques/tutorizacion.md
+
+site:
+  template: book-theme
+  nav:
+    - title: Ejemplos MyST
+      url: /ejemplos-myst
+  options:
+    logo: img/logo.svg
+    logo_text: STPEA
+    favicon: img/logo.svg
