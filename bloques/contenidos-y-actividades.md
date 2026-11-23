@@ -19,12 +19,12 @@ En este bloque, el protagonista es el docente como autor: prepara materiales y a
 
 Cuatro proyectos de ejemplo, pensados para recorrerse en orden. Cada uno está construido con MyST y explica, de forma guiada, un aspecto de la producción de materiales:
 
-1. [Usar MyST y maquetar](/ejemplos-myst/uso-y-maquetacion/): instalación, ejecución, exportación y maquetación básica.
-2. [Recursos multimedia](/ejemplos-myst/recursos-multimedia/): imágenes, vídeos, ecuaciones, código, diagramas y páginas incrustadas.
-3. [Reutilizar y enlazar](/ejemplos-myst/reutilizar-y-enlazar/): un repositorio de fragmentos para montar distintas presentaciones.
-4. [Libros ejecutables](/ejemplos-myst/libros-ejecutables/): cuadernos Jupyter y su ejecución en el navegador.
+1. [Usar MyST y maquetar](../ejemplos-myst/uso-y-maquetacion/): instalación, ejecución, exportación y maquetación básica.
+2. [Recursos multimedia](../ejemplos-myst/recursos-multimedia/): imágenes, vídeos, ecuaciones, código, diagramas y páginas incrustadas.
+3. [Reutilizar y enlazar](../ejemplos-myst/reutilizar-y-enlazar/): un repositorio de fragmentos para montar distintas presentaciones.
+4. [Libros ejecutables](../ejemplos-myst/libros-ejecutables/): cuadernos Jupyter y su ejecución en el navegador.
 
-Todos se pueden descargar desde su propia página, para ejecutarlos y modificarlos en el ordenador. La [página de ejemplos](/ejemplos-myst/) los reúne.
+Todos se pueden descargar desde su propia página, para ejecutarlos y modificarlos en el ordenador. La [página de ejemplos](../ejemplos-myst/) los reúne.
 
 :::{note} Por completar
 Otros ejemplos del bloque, actividades y calendario.
